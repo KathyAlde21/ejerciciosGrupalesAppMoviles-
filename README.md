@@ -8,10 +8,9 @@
 - [Ejercicio Grupal 12](https://github.com/KathyAlde21/ejerciciosGrupalesAppMoviles-/tree/ce402edcaebee77bbcb00d8f14bec5d2e909338f/src/ejercicioGrupal12)
 - [Ejercicio Grupal 13](https://github.com/KathyAlde21/ejerciciosGrupalesAppMoviles-/tree/ce402edcaebee77bbcb00d8f14bec5d2e909338f/src/ejercicioGrupal13)
 - [Ejercicio Grupal 14](https://github.com/KathyAlde21/ejerciciosGrupalesAppMoviles-/tree/ce402edcaebee77bbcb00d8f14bec5d2e909338f/src/ejercicioGrupal14)
-- [Ejercicio Grupal 15](https://github.com/KathyAlde21/ejerciciosGrupalesAppMoviles-/tree/ce402edcaebee77bbcb00d8f14bec5d2e909338f/src/ejercicioGrupal15)
 - [Ejercicio Grupal 16](https://github.com/KathyAlde21/ejerciciosGrupalesAppMoviles-/tree/ce402edcaebee77bbcb00d8f14bec5d2e909338f/src/ejercicioGrupal16)
 - [Ejercicio Grupal 17](https://github.com/KathyAlde21/ejerciciosGrupalesAppMoviles-/tree/ce402edcaebee77bbcb00d8f14bec5d2e909338f/src/ejercicioGrupal17)
-- []()
+
 
 
 
