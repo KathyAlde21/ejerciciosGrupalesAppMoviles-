@@ -16,7 +16,7 @@
 
 **_<h2 align="center">Módulo 3 - Fundamentos de Programación en Java</h2>_**
 
-- [Ejercicio Grupal 1 - Base de Datos telovendo y Usuario admintienda](https://github.com/KathyAlde21/ejerciciosGrupalesAppMoviles-/tree/master/src/Modulo_3/ejercicioGrupal)
+- [Ejercicio Grupal 1 - Base de Datos telovendo y Usuario admintienda](https://github.com/KathyAlde21/ejerciciosGrupalesAppMoviles-/tree/master/src/Modulo_3/ejercicioGrupal1)
 - []()
 - []()
 
