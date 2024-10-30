@@ -4,11 +4,11 @@
 
 - [Ejercicio Grupal 1 - Base de Datos telovendo y Usuario admintienda](https://github.com/KathyAlde21/ejerciciosGrupalesAppMoviles-/tree/master/src/Modulo_3/ejercicioGrupal1)
 - [Ejercicio Grupal 2 - Base de Datos telovendo, agregando datos y realizando consultas](https://github.com/KathyAlde21/ejerciciosGrupalesAppMoviles-/tree/master/src/Modulo_3/ejercicioGrupal2)
-- [Ejercicio Grupal 3 - ]-(https://github.com/KathyAlde21/ejerciciosGrupalesAppMoviles-/tree/master/src/Modulo_3/ejercicioGrupal3)
-- [Ejercicio Grupal 4 - ]-(https://github.com/KathyAlde21/ejerciciosGrupalesAppMoviles-/tree/master/src/Modulo_3/ejercicioGrupal4)
-- [Ejercicio Grupal 5 - ]-(https://github.com/KathyAlde21/ejerciciosGrupalesAppMoviles-/tree/master/src/Modulo_3/ejercicioGrupal5)
+- [Ejercicio Grupal 3 - ] - (https://github.com/KathyAlde21/ejerciciosGrupalesAppMoviles-/tree/master/src/Modulo_3/ejercicioGrupal3)
+- [Ejercicio Grupal 4 - ] - (https://github.com/KathyAlde21/ejerciciosGrupalesAppMoviles-/tree/master/src/Modulo_3/ejercicioGrupal4)
+- [Ejercicio Grupal 5 - ] - (https://github.com/KathyAlde21/ejerciciosGrupalesAppMoviles-/tree/master/src/Modulo_3/ejercicioGrupal5)
 
-- [Final Sprint Tres]-(https://github.com/KathyAlde21/sprint_final_modulo_tres)
+- [Final Sprint Tres] - (https://github.com/KathyAlde21/sprint_final_modulo_tres)
 
 **_<h2 align="center">Módulo 2 - Fundamentos de Programación en Java</h2>_**
 
