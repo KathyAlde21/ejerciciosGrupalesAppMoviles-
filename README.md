@@ -8,7 +8,7 @@
 - [Ejercicio Grupal 4 - Base de Datos telovendo, agregando y cambiando datos, realizando consultas, modificando columnas para crear Foreign Key](https://github.com/KathyAlde21/telovendo_iteracion5)
 - [Ejercicio Grupal 5 - ] - (https://github.com/KathyAlde21/ejerciciosGrupalesAppMoviles-/tree/master/src/Modulo_3/ejercicioGrupal5)
 
-- [Final Sprint Tres] - (https://github.com/KathyAlde21/sprint_final_modulo_tres)
+- [Sprint Final Modulo Tres - Te Lo Vendo Sprint - creación de base de datos, tablas y registros](https://github.com/KathyAlde21/telovendo_sprint.git)
 
 **_<h2 align="center">Módulo 2 - Fundamentos de Programación en Java</h2>_**
 
