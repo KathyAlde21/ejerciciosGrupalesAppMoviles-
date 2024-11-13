@@ -6,7 +6,7 @@
 - [Ejercicio Grupal 2 - Base de Datos telovendo, agregando datos y realizando consultas](https://github.com/KathyAlde21/ejerciciosGrupalesAppMoviles-/tree/master/src/Modulo_3/ejercicioGrupal2)
 - [Ejercicio Grupal 3 - Base de Datos telovendo, agregando datos, realizando consultas, MIN, MAX, AVG, DELETE, CREATE TABLE AS, UPDATE](https://github.com/KathyAlde21/ejerciciosGrupalesAppMoviles-/tree/master/src/Modulo_3/ejercicioGrupal3)
 - [Ejercicio Grupal 4 - Base de Datos telovendo, agregando y cambiando datos, realizando consultas, modificando columnas para crear Foreign Key](https://github.com/KathyAlde21/telovendo_iteracion5)
-- [Ejercicio Grupal 5 - ] - (https://github.com/KathyAlde21/ejerciciosGrupalesAppMoviles-/tree/master/src/Modulo_3/ejercicioGrupal5)
+- [Ejercicio Grupal 5 - Diagramando de Acuerdo a requerimiento bajo Conceptos de Modelo Entidad relación](https://github.com/KathyAlde21/diagramando_con_sql.git))
 
 - [Sprint Final Modulo Tres - Te Lo Vendo Sprint - creación de base de datos, tablas y registros](https://github.com/KathyAlde21/telovendo_sprint.git)
 
