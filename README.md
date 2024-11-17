@@ -1,6 +1,6 @@
-**_<h1 align="center">:vulcan_salute: Ejercicios Grupales Plataforma :computer:</h1>_**
+**_<h2 align="center">:vulcan_salute: Ejercicios Grupales Java Plataforma :computer:</h2>_**
 
-**_<h2 align="center">Módulo 3 - Fundamentos de Programación en Java</h2>_**
+**_<h3 align="center">Módulo 3 - Fundamentos de Programación en Java</h3>_**
 
 - [Ejercicio Grupal 1 - Base de Datos telovendo y Usuario admintienda](https://github.com/KathyAlde21/ejerciciosGrupalesAppMoviles-/tree/master/src/Modulo_3/ejercicioGrupal1)
 - [Ejercicio Grupal 2 - Base de Datos telovendo, agregando datos y realizando consultas](https://github.com/KathyAlde21/ejerciciosGrupalesAppMoviles-/tree/master/src/Modulo_3/ejercicioGrupal2)
@@ -10,7 +10,7 @@
 
 - [Sprint Final Modulo Tres - Te Lo Vendo Sprint - creación de base de datos, tablas y registros](https://github.com/KathyAlde21/telovendo_sprint.git)
 
-**_<h2 align="center">Módulo 2 - Fundamentos de Programación en Java</h2>_**
+**_<h3 align="center">Módulo 2 - Fundamentos de Programación en Java</h3>_**
 
 - [Ejercicio Grupal 8 - Registro de Usuarios](https://github.com/KathyAlde21/ejerciciosGrupalesAppMoviles-/tree/master/src/Modulo_2/ejercicioGrupal8)
 - [Ejercicio Grupal 9 - Sistema de Información Empresa de Asesorias con validaciones](https://github.com/KathyAlde21/ejerciciosGrupalesAppMoviles-/tree/master/src/Modulo_2/ejercicioGrupal9)
